@@ -49,7 +49,7 @@ Welcome to my repository! This collection features the cybersecurity projects I 
 
 I successfully completed this virtual internship and earned a certificate. 
 
-[![Certificate](Certificate.PNG)]
+![Certificate](Certificate.PNG)
 
 Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
 
